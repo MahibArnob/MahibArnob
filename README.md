@@ -28,4 +28,11 @@ Highly motivated software engineer with 2.5 years of experience in robotic proce
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MahibArnob&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mahibarnob/mahibarnob/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mahibarnob/mahibarnob/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/mahibarnob/mahibarnob/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
