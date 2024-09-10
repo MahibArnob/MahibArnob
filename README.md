@@ -5,6 +5,8 @@ Highly motivated software engineer with 2.5 years of experience in robotic proce
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mahib_arnob_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahibornob) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9499004) 
 
+## 📫 Contact Me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahibornob.me@gmail.com)
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/MahibArnob/MahibArnob/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
